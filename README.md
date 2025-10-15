@@ -19,10 +19,10 @@ The focus is on agriculture, particularly **potatoes and wheat**, two of the wor
 **Period:** 2019–2025  
 
 **Variables Analyzed:**
-- **Inflation Rate (YoY %)** — Consumer-level inflation
-- **Inflation Since 2018 (%)** — Long-term inflation trend
-- **Producer Price Change (YoY %)** — Annual change in agricultural producer prices
-- **Producer Production ($)** — Value of agricultural output (Potatoes and Wheat)
+- **Inflation Rate (YoY %)**: Consumer-level inflation
+- **Inflation Since 2018 (%)**: Long-term inflation trend
+- **Producer Price Change (YoY %)**: Annual change in agricultural producer prices
+- **Producer Production ($)**: Value of agricultural output (Potatoes and Wheat)
 
 ---
 
@@ -40,10 +40,18 @@ The focus is on agriculture, particularly **potatoes and wheat**, two of the wor
 
 ## Dashboard Pages
 
+### Comparative Overview of Agricultural Performance
 
 
 
-### **Page 1: Comparative Overview of Agricultural Performance**
+
+![Screenshot 992](Screenshot%20(992).png)
+
+
+
+
+
+
 - **Map Visualization:** Displays regions analyzed (Africa, Europe, North America)
 - **KPI Card:** Shows the average producer price across all countries (e.g., $963.56)
 - **Bar Chart:** Compares producer production values ($) across selected countries
@@ -57,9 +65,18 @@ The focus is on agriculture, particularly **potatoes and wheat**, two of the wor
 
 
 
+  
+### Inflation and Producer Price Trends (2019–2025)
 
 
-### **Page 2: Inflation and Producer Price Trends (2019–2025)**
+
+
+  ![Screenshot 993](Screenshot%20(993).png)
+
+
+
+
+
 - **Consumer Price Inflation (YoY %):** Shows household price fluctuations
   - Nigeria and Egypt face sharp inflation spikes (2021–2024)
   - European economies maintain relative stability
@@ -69,10 +86,10 @@ The focus is on agriculture, particularly **potatoes and wheat**, two of the wor
 - **Inflation Since 2018 (%):** Visualizes cumulative inflationary pressure
 - **Production Trend Chart:** Wheat maintains stability; potato production fluctuates with market shocks
 
-
-
 **Insight:** Highlights the gap between consumer inflation and producer returns, key to understanding food affordability and farmer welfare.
 
+
+  
 ---
 
 ## 🌾 Why Agriculture  and Why Potatoes & Wheat?
