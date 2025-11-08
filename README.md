@@ -4,7 +4,7 @@ A Power BI Visualization of FAOSTAT Data with Focus on Potatoes and Wheat Across
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 This project presents a comparative Power BI analysis of consumer price inflation, producer price changes, and agricultural production trends between 2019 and 2025 using data from **FAOSTAT (Food and Agriculture Organization of the United Nations)**.
 
