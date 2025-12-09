@@ -92,7 +92,7 @@ The focus is on agriculture, particularly **potatoes and wheat**, two of the wor
   
 ---
 
-## 🌾 Why Agriculture  and Why Potatoes & Wheat?
+## Why Agriculture and Why Potatoes & Wheat?
 
 Agriculture is central to **economic stability** and **human welfare**. Potatoes and wheat were chosen because they reflect:
 - The contrast between staple crop systems in developed and developing regions
