@@ -33,8 +33,7 @@ The focus is on agriculture, particularly **potatoes and wheat**, two of the wor
 | 1 | Data Extraction | FAOSTAT |
 | 2 | Data Transformation | Power BI Desktop |
 | 3 | Visualization | Power BI |
-| 4 | Automation | Power Automate (trigger-action flow) |
-| 5 | Publishing | Power BI Service |
+| 4 | Publishing | Power BI Service |
 
 ---
 
@@ -117,7 +116,6 @@ This analysis translates FAOSTAT data into actionable insights reflecting macro-
 - Data Cleaning, Modeling, and Visualization in Power BI  
 - Time-Series and Comparative Analysis  
 - Economic and Agricultural Data Interpretation  
-- Power Automate Workflow for Trigger–Action Automation  
 - Dashboard Design and Storytelling for Policy Insight  
 
 ---
