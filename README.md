@@ -8,9 +8,11 @@
 3. [Workflow Summary](#workflow-summary)
 4. [Dashboard Pages](#dashboard-pages)
 5. [Rationale for Crop Selection](#rationale-for-crop-selection)
-6. [Key Insights](#key-insights)
-7. [Skills Demonstrated](#skills-demonstrated)
-8. [Citation](#citation)
+6. [Country Group Comparison](#country-group-comparison)
+7. [Critical Price Transmission Gap](#critical-price-transmission-gap)
+8. [Strategic Recommendations by Urgency](#strategic-recommendations-by-urgency)
+9. [Skills Demonstrated](#skills-demonstrated)
+10. [Citation](#citation)
 
 ---
 
@@ -24,7 +26,7 @@ The focus is on **potatoes and wheat**, evaluating how macroeconomic pressures t
 ## Data Source
 - **Source:** FAOSTAT (UN Food and Agriculture Organization)  
 - **Dataset:** Food Prices and Agricultural Producer Statistics  
-- **Period:** 2019–2025  
+- **Period:** 2019 - 2025  
 
 **Key Variables:**
 - **Inflation Rate (YoY %):** Consumer-level inflation  
@@ -83,13 +85,49 @@ The focus is on **potatoes and wheat**, evaluating how macroeconomic pressures t
 
 ---
 
-## Key Insights
-- Inflation affects consumers and producers differently; gains are uneven across economies  
-- Developed nations (USA, UK) maintain **high efficiency and lower volatility** in potato production  
-- Developing countries (Nigeria, Kenya) face **larger inflationary shocks** relative to output growth  
-- The **gap between consumer and producer prices** emphasises economic imbalance in agricultural value chains  
+## Country Group Comparison
+
+| Country Group                        | Inflation Pattern         | Producer Impact                  | Key Challenge                     |
+|--------------------------------------|-------------------------|---------------------------------|----------------------------------|
+| Nigeria, Egypt                        | High spikes (2021–24)   | Lags behind consumer prices      | Price transmission failure        |
+| Kenya, Jordan                         | Moderate growth         | Some producer gains              | Market inefficiency               |
+| USA, UK, Netherlands, Ireland         | Stable, low             | High efficiency maintained       | Sustaining competitiveness        |
 
 ---
+
+## Critical Price Transmission Gap
+**The Core Problem:** Consumer inflation does **not** translate to producer gains  
+
+- Farmers in developing countries often do **not benefit** when food prices rise  
+- Intermediaries and middlemen capture most of the margin  
+- Smallholders remain vulnerable despite **high market prices**  
+
+---
+
+## Strategic Recommendations by Urgency
+
+### Immediate Actions (0–6 months)
+- **Exempt agricultural inputs** from import tariffs during inflation spikes  
+- **Establish price monitoring** to track consumer-producer gaps  
+- **Launch inflation-indexed credit products** for farmers  
+
+### Short-term Actions (6–12 months)
+- Implement **minimum support prices** for staple crops (e.g., potatoes, wheat) in Nigeria, Kenya, Egypt  
+- **Digitize market information systems** with real-time alerts  
+- Publish **quarterly inflation impact assessments**  
+
+### Medium-term Actions (1–3 years)
+- Build **strategic grain reserves** to stabilise supply  
+- Invest in **post-harvest storage infrastructure**  
+- **Transfer productivity practices** from USA/UK systems to improve efficiency in developing countries  
+
+---
+
+## Summary: 
+This cross-country comparison demonstrates how **market inefficiencies and price transmission gaps** affect smallholders.  
+Adopting **tiered, urgent, and medium-term interventions** can enhance producer welfare, stabilise markets, and support sustainable food systems globally.
+
+----
 
 ## Skills Demonstrated
 - Data cleaning, modelling, and visualisation in **Power BI**  
